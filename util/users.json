@@ -1,0 +1,4 @@
+{"users":[{"id":"99235897404329984","name":"TheWholeRatio","pokemonScore":3}]}
+
+// store user names here in this format:
+// { "users": id: <enter discord id here>, "name": <enter identifying name of user>, "pokemonScore": 0 }
